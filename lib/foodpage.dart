@@ -122,7 +122,7 @@ class _FoodPageState extends State<FoodPage> {
               ),
               SizedBox(width: 15.0),
             ],
-          )
+          ),
         ],
       ),
     );
