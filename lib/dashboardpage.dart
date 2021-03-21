@@ -120,7 +120,7 @@ class _DashboardPageState extends State<DashboardPage>
               children: <Widget>[
                 _buildListItem(
                   'Burger',
-                  'assets/burger.png',
+                  'assets/hamburger.png',
                   '7',
                   Color(0xFFFFE0B2),
                   Color(0xFF000000),
