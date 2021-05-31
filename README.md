@@ -6,3 +6,11 @@ Technology Used:
   1. Programming Language: Dart
   2. UI Design: Google Material Design for Android
   3. Tool: Microsoft Visual Studio Code
+
+Home Screen
+![](screenshots/1.jpg)
+
+Food Item Screen
+![](screenshots/2.jpg)
+
+![](screenshots/3.jpg)
